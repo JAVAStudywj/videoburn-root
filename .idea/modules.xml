@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../videoburn-common/videoburn-common.iml" filepath="$PROJECT_DIR$/../videoburn-common/videoburn-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../modules/videoburn-cms/videoburn-module-cms.iml" filepath="$PROJECT_DIR$/../modules/videoburn-cms/videoburn-module-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../modules/videoburn-core/videoburn-module-core.iml" filepath="$PROJECT_DIR$/../modules/videoburn-core/videoburn-module-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../videoburn-parent/videoburn-parent.iml" filepath="$PROJECT_DIR$/../videoburn-parent/videoburn-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/videoburn-root.iml" filepath="$PROJECT_DIR$/videoburn-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../videoburn-web/videoburn-web.iml" filepath="$PROJECT_DIR$/../videoburn-web/videoburn-web.iml" />
+    </modules>
+  </component>
+</project>

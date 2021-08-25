@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="videoburn-web:war">
+    <output-path>$PROJECT_DIR$/../videoburn-web/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>videoburn-web</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="web.war">
+      <element id="artifact" artifact-name="videoburn-web:war exploded" />
+    </root>
+  </artifact>
+</component>

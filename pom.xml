@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	
+	<groupId>com.jeesite</groupId>
+	<artifactId>videoburn-root</artifactId>
+	<version>4.3.0-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	
+	<name>VideoBurn</name>
+	<url>http://jeesite.com</url>
+	<inceptionYear>2013-Now</inceptionYear>
+	
+	<modules>
+        <module>../videoburn-parent</module>
+        <module>../videoburn-common</module>
+        <module>../modules/videoburn-core</module>
+        <module>../modules/videoburn-cms</module>
+        <module>../videoburn-web</module>
+    </modules>
+	
+	<developers>  
+		<developer>
+			<id>ZiBoStrong</id>
+			<name>WangJie</name>
+			<email>zbsc_wj@163.com</email>
+			<roles><role>Project lead</role></roles>
+			<timezone>+8</timezone>  
+		</developer>
+	</developers>
+	
+	<organization>
+		<name>JeeSite</name>
+		<url>http://jeesite.com</url>
+	</organization>
+	
+</project>
